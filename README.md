@@ -5,3 +5,6 @@ A brief description.
 
 Your name and a short bio.
     My name is Mustapha Ashiru Bari, and I am a postgraduate candidate at Bayero University, currently conducting my research work. I am thrilled to join Python Cohort 3
+
+
+Todays date is 08/11/2024 time 9:16am
