@@ -8,3 +8,10 @@ Your name and a short bio.
 
 
 Todays date is 08/11/2024 time 9:16am
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
