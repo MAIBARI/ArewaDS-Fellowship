@@ -103,7 +103,7 @@ ___
 
 # Blockquotes
 Quote text with a >:
-> Markdown is a writer's best friend.
+>: Markdown is a writer's best friend.
 
 
 # Resources
