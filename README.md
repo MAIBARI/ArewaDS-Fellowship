@@ -1,17 +1,20 @@
 # ArewaDS-Fellowship
-Assignment 1
-A brief description.
+#Assignment 1
+
+##A brief description.
     This repository was created in response to Assignment One of the ArewaDS Fellowship Python Cohort 3. Completing this assignment is a requirement for graduation from the program.
 
-Your name and a short bio.
+##Your name and a short bio.
     My name is Mustapha Ashiru Bari, and I am a postgraduate candidate at Bayero University, currently conducting my research work. I am thrilled to join Python Cohort 3
 
 
-Today's date is 08/11/2024 time 9:16 am
+###Today's date is 
 
-Markdown Tutorial for Beginners
+08/11/2024 time 9:16 am
 
-Headings
+#Markdown Tutorial for Beginners
+
+#Headings
 Headings are created by adding one or more # symbols before your heading text. The number of # you use will determine the size of the heading.
 
 # Heading 1
